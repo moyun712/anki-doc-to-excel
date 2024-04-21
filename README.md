@@ -11,9 +11,9 @@
 > 需要删除苹果后的中文句号，只保留最后一个中文句号
 ## 配置
 
-python版本3.12.2
-python-docx库1.1.0
-pandas库 2.1.4
+* python版本3.12.2
+* python-docx库1.1.0
+* pandas库 2.1.4
 
 ## 使用流程
 
