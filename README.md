@@ -24,3 +24,4 @@
 3. 将这个word的路径放入`docx_to_excel(a.doc,b.xlsx)`中的a处，b则为创建的文件名
 4. 将创建的.xlsx文件使用`excel_to_txt()`将excel转换为txt文件
 5. 将创建的txt文件导入anki中即可
+6. 如果出现运行失败的问题，可以使用`check_question(docx_file)`,`check_question_2(docx_file)`来排查问题并修改 
